@@ -3,5 +3,6 @@ title: Категории
 ---
 
 - [Телефоны](phones)
+- [Аксессуары](accesories)
 - [Ноутбуки](notebooks)
-- [Фотоаппараты](cameras)
+- [Переходники](adapters)
