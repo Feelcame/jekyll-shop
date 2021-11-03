@@ -1,5 +1,6 @@
 ---
 title: Телефоны
+index: 1
 ---
 
 TODO: 
