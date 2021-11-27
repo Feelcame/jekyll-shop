@@ -4,7 +4,7 @@ description: <a href="/" style="color:white; font-weight:bold">🏠 Linker</a>. 
 comments: true
 show_downloads: true
 google_analytics: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 copyright: © 2018+
 markdown: kramdown
 highlighter: rouge
